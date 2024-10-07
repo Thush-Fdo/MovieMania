@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MovieMania
 //
-//  Created by Shermin Fernando on 13/09/2024.
+//  Created by Thush-Fdo on 13/09/2024.
 //
 
 import UIKit
